@@ -10,15 +10,6 @@ A simple and effective rate limiter implementation using Spring Boot with Token 
 - **HTTP 429 Responses**: Proper error handling with Retry-After headers
 - **Thread-safe**: ConcurrentHashMap-based implementation for high concurrency
 
-## Technology Stack
-
-- **Spring Boot 3.2.0**
-- **Java 17**
-- **Spring AOP** for aspect-oriented programming
-- **Spring Expression Language (SpEL)** for dynamic key resolution
-- **Spring Actuator** for monitoring
-- **Maven** for dependency management
-
 ## Quick Start
 
 ### Prerequisites
